@@ -3,7 +3,7 @@
 parameters:
     OnlineUsername: 'mila_ig@abv.bg'
     OnlinePassword: 'NikoPiko123!'
-    BrowserType: ''
+    BrowserType: 'test'
     OnlineUrl: ''
     TestAutomationURLFilePath: ''
     UsePrivateMode: ''
